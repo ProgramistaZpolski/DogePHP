@@ -21,7 +21,7 @@ API Requests Speed for a 10kb/s upload, 40kb/s download internet connection:
 ```php
 Doge::info(); // ~15s
 Doge::stats(); // ~20s
-Doge::bots(); // ~260s
+Doge::bots(); // ~200s
 Doge::rooms("popular"); // ~5s
 Doge::rooms("scheduled"); // ~7s
 ```
