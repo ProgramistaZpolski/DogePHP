@@ -1,2 +1,2 @@
 # DogePHP
-PHP Wrapper around the DogeGarden API
+PHP Wrapper around the DogeHouse/DogeGarden API
